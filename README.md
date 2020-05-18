@@ -3,4 +3,4 @@ Given 3 years of sales data, predict demand for SKU of a retail store over the l
 
 Algorithms used include ARIMA, Seasonal ARIMA, Random Forest and XGBoost.
 
-Next steps would be to get data at more granular level to udnerstand the types of products being sold, demand for different types of products, most popular product and the price point of the products.
+Next steps would be to get data at more granular level to understand the types of products being sold, demand for different types of products, most popular product and the price point of the products.
